@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://prointelligenceresearch.com/"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
