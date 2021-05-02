@@ -1,5 +1,5 @@
 baseURL = "https://prointelligenceresearch.com/"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -34,12 +34,12 @@ pre = "#"
 url = "contact"
 weight = 7
 [Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+contentDir = ""
+copyright = ""
+home = ""
+languageCode = ""
+languageName = ""
+weight = ""
 [Languages.fr.menu]
 main = []
 [params]
